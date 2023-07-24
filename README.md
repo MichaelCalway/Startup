@@ -1,2 +1,3 @@
-# Startup of Startups
-This is a a simple start up site
++ # Startup of Startups
++ Simple start up site
++ Linking url + Mailchimp for email sign ups
